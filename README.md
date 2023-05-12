@@ -1,16 +1,21 @@
-### Hi there 👋
+# 💫 About Me:
+👨‍💻 Sobre mí<br><br>¡Hola! Soy Stiven Torres, un desarrollador Full Stack en constante aprendizaje. Me encanta trabajar en proyectos que me desafíen y me permitan aplicar mis habilidades y conocimientos.<br>Me esfuerzo por mantenerme actualizado y siempre estoy en busca de nuevos desafíos y oportunidades para aprender y crecer como profesional. ¡Conectemos en GitHub y trabajemos juntos en nuevos proyectos!"<br><br>🌱 Actualmente estoy aprendiendo<br><br>- Sass   (Inicio pronto)<br>- Inglés (actualmente estudiando)<br><br>🚀 Me gustaría aprender<br><br>- React<br>- python	(Del caual tengo fundamentos)<br>- C++		(Del caual tengo fundamentos)<br>- Desarrollo de IA<br><br>💬 Contacto<br><br>Si tienes algún comentario o sugerencia sobre mis proyectos, ¡no dudes en contactarme! Puedes encontrarme en LinkedIn:  Stiven Torres Oritiz (https://www.linkedin.com/in/stiven-torres-ortiz-880637276) o en stiventorres.working@gmail.com <br><br><br><br>⚡ Dato curioso<br><br>Me encanta la mecatronica y la biomedicina he participado en concursos como: FIRST LEGO League (FLL) tanto como participante y couhs, tambien en mi institución inicie un semillero en el que se inicio un proyecto de una protesis casera con base en arduino y materiales de bajo costo, PEED (consiste en una protesis educacional, que busca contribuir y fortalecer desde el enfoque diferencial a ciertos grupos poblacionales con caracteristicas particulares,en el que el usuario debe asumir una serie de retos con el objetivo de desarrollar algunas competencias que aportan el desrrollo socioemocional del individuo), esto me llevo a dar un par de conferencias y ponencias lo cual llevo el mismo a un nivel municipal, actualmente ya no soy un participante activo, debido a que termine mi ciclo escolar, ahora ocupo el puesto de consultor. <br>Me parece que queda claro que soy un  joven curioso, un poco ambicioso, muy diciplinado, pero sobre
 
-<!--
-**StivenTorres17/StivenTorres17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/stiven#8026) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/24_stiven) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Stiven Torres Ortiz) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=StivenTorres17 &theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=StivenTorres17 &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=StivenTorres17 &theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
