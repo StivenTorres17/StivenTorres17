@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Sobre mí<br><br>¡Hola! Soy Stiven Torres, un desarrollador Full Stack en constante aprendizaje. Me encanta trabajar en proyectos que me desafíen y me permitan aplicar mis habilidades y conocimientos.<br>Me esfuerzo por mantenerme actualizado y siempre estoy en busca de nuevos desafíos y oportunidades para aprender y crecer como profesional. ¡Conectemos en GitHub y trabajemos juntos en nuevos proyectos!<br><br>¡Hola! Soy Stiven Torres, un desarrollador Full Stack en constante aprendizaje. Me encanta trabajar en proyectos que me desafíen y me permitan aplicar mis habilidades y conocimientos.<br>Me esfuerzo por mantenerme actualizado y siempre estoy en busca de nuevos desafíos y oportunidades para aprender y crecer como profesional. ¡Conectemos en GitHub y trabajemos juntos en nuevos proyectos!"<br><br>🌱 Actualmente estoy aprendiendo<br><br>- Inglés<br><br>🚀 Me gustaría aprender<br><br>- React<br>- python (Del cual tengo fundamentos)<br>- Desarrollo de IA<br><br>💬 Contacto<br><br>Si tienes algún comentario o sugerencia sobre mis proyectos, ¡no dudes en contactarme! Puedes encontrarme en: <br><br>linkedin.com/in/stiven-torres-dev<br>stiventorres.working@gmail.com
+👨‍💻 Sobre mí<br><br>¡Hola! Soy Stiven Torres, un desarrollador Full Stack en constante aprendizaje. Me encanta trabajar en proyectos que me desafíen y me permitan aplicar mis habilidades y conocimientos.<br>Me esfuerzo por mantenerme actualizado y siempre estoy en busca de nuevos desafíos y oportunidades para aprender y crecer como profesional. ¡Conectemos en GitHub y trabajemos juntos en nuevos proyectos!<br><br>¡Hola! Soy Stiven Torres, un desarrollador Full Stack en constante aprendizaje. Me encanta trabajar en proyectos que me desafíen y me permitan aplicar mis habilidades y conocimientos.<br>Me esfuerzo por mantenerme actualizado y siempre estoy en busca de nuevos desafíos y oportunidades para aprender y crecer como profesional. ¡Conectemos en GitHub y trabajemos juntos en nuevos proyectos!"<br><br>🌱 Actualmente estoy aprendiendo<br><br>- Inglés<br><br>🚀 Me gustaría aprender<br><br>- React<br>- python (Del cual tengo fundamentos)<br>- Desarrollo de IA<br><br>💬 Contacto<br><br>Si tienes algún comentario o sugerencia sobre mis proyectos, ¡no dudes en contactarme! Puedes encontrarme en: <br><br>http//:linkedin.com/in/stiven-torres-dev<br>stiventorres.working@gmail.com
 
 
 ## 🌐 Socials:
@@ -20,10 +20,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=StivenTorres17&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
